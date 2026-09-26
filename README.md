@@ -1,6 +1,6 @@
 # Footballers App
 
-Footballers App is a web application that allows users to create and manage custom football teams and players.
+Footballers App is a web application (previously built in Glitch) that allows users to create and manage custom football teams and players.
 
 Users can create their own teams, add players to each team, edit or remove players and browse their teams through a simple web interface.
 
